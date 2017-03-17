@@ -37,6 +37,8 @@ object Demo {
     val counts = pairs.reduceByKey((a, b) => a + b).count()
     println(s"Map results. Count: $counts")
     // Map results. Count: 999999
+
+
     sc.stop()
   }
 }
