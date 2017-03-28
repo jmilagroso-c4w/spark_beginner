@@ -1,0 +1,10 @@
+Vector(21, 32, 43, 54)[Error] expected:
+Vector(21, 32, 43, 5)
+Vector(21, 32, 43, 54)[Error] expected:
+Vector(211, 32, 43, 54)
+9[Error] expected:
+16
+()[Error] expected:
+10
+()[Error] expected:
+21
